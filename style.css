@@ -25,6 +25,12 @@
 img{
     max-width: 100%;
 }
+.computer{
+    width: 400px;
+    height: 250px;
+    border: 10px solid red;
+}
+
 
        
 
