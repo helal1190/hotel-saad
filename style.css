@@ -1,6 +1,7 @@
 * {
     padding: 0;
     margin: 0;
+    margin: auto;
 }
 
 .helal {
@@ -25,10 +26,53 @@
 img{
     max-width: 100%;
 }
-.computer{
-    width: 400px;
-    height: 250px;
-    border: 10px solid red;
+ .helal{
+    width: 800px;
+    height:300px;
+    border: 10px solid royalblue;
+ }
+ 
+    
+
+.helal-1 ul{
+list-style: none;
+ 
+
+}
+.helal-1 ul li{
+float: left;
+ 
+}
+.helal-1 ul li a{
+    display: block;
+    padding: 25px;
+    text-decoration: none;
+    font-size:30px;
+}
+.helal-1 ul li a:hover{
+    background: red;
+    ov
+}
+.computer ul{
+    list-style: none;
+    float:left;
+}
+.computer ul{
+    width: 800px;
+    height:100px;
+    border: 10px solid gold; 
+}
+.computer ul li{
+    float: left;
+}
+.computer ul li a{
+    display: block;
+    padding: 25px;
+    text-decoration: none;
+    font-size:30px;
+}
+.computer ul li a:hover{
+    background: green;
 }
 
 
