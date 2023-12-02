@@ -86,13 +86,23 @@ h3{
     margin:auto;
 
 }
+h1{
+    background:red;
+     
+    height:50px;
+    margin: auto;
+}
+h2{
+     
+    height:350px;
+    background:slategray;
+    color:white;
+}
+.ami{
+    width:1200px;
+    height:455px;
+    background:paleturquoise;
 
-l
+}
 
 
-       
-
-         
-    
-        
-    
